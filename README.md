@@ -33,7 +33,7 @@ url = {www.anthropic.com/research/anthropic-economic-index-september-2025-report
 
 ## 仓库结构
 ```
-AERD/
+AEIRD/
 ├── README.md                                       项目简介、数据来源与使用说明
 ├── aei_raw_1p_api_2025-08-04_to_2025-08-11.csv
 ├── aei_raw_claude_ai_2025-08-04_to_2025-08-11.csv
