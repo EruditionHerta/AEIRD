@@ -15,7 +15,7 @@
 ```
 @online{appelmccrorytamkin2025geoapi,
 
-author = {Ruth Appel and Peter McCrory and Alex Tamkin and Michael Stern and Miles McCain and Tyler Neylon],
+author = {Ruth Appel and Peter McCrory and Alex Tamkin and Michael Stern and Miles McCain and Tyler Neylon},
 
 title = {Anthropic Economic Index report: Uneven geographic and enterprise AI adoption},
 
