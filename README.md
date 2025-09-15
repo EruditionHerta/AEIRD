@@ -38,5 +38,6 @@ AERD/
 ├── aei_raw_1p_api_2025-08-04_to_2025-08-11.csv
 ├── aei_raw_claude_ai_2025-08-04_to_2025-08-11.csv
 ├── data_documentation.md                           原始英文版数据字典与字段解释
-└── data_documentation_zh.md                        中文版数据字典与字段解释
+├── data_documentation_zh.md                        中文版数据字典与字段解释
+└── report_print.pdf                                报告原文打印页面
 ```
